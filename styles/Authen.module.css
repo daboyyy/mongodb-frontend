@@ -1,0 +1,36 @@
+.button {
+  margin: 10px;
+  padding: 0.3rem;
+  width: 5vw;
+}
+
+.container {
+  padding: 0 2rem;
+}
+
+.error {
+  color: crimson;
+  display: inline-block;
+  margin: 0 11px;
+}
+
+.input {
+  display: flex;
+  margin: 10px;
+  padding: 0.4rem;
+  width: 20vw;
+}
+
+.main {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.register {
+  cursor: pointer;
+  color: cornflowerblue;
+  text-decoration: underline;
+}
